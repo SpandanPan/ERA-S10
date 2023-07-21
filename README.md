@@ -41,7 +41,8 @@
 #### FC
 
 ### Optimizers
-#### SGD
-#### Step Scheduler (Size=15)
-#### Epoch 50
+#### Adam
+#### One Cycle LP  - max LR 2.30E-02 (using LR finder)
+![alt text](https://github.com/SpandanPan/ERA_S8_v1/blob/main/LRFinder.img?raw=true)
+#### Epoch 24
 
