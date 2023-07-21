@@ -40,9 +40,8 @@
 #### GAP
 #### FC
 
-### Optimizers
-#### Adam
+#### Optimizers - Adam
 #### One Cycle LP  - max LR 2.30E-02 (using LR finder)
-![alt text](https://github.com/SpandanPan/ERA_S8_v1/blob/main/LRFinder.png?raw=true)
+![alt text](https://github.com/SpandanPan/ERA-S10/blob/main/LRFinder.png?raw=true)
 #### Epoch 24
 
